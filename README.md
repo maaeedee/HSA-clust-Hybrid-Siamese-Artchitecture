@@ -7,8 +7,8 @@ This model is particularely designed and tested to capture similar trajectories 
 ----------
 There are following files in this repository:
 * `data_augmentation.py`: Generates the augmented GPS trajectory from raw GPS trajectories
-* `utils_pre.py.py`: Includes functions which is required to organize the data into the proper shape and type.
-* `deep_tools.py`: Includes functions which is used to create triplets for the deep model.
+* `utils_pre.py`: Includes functions which is required to organize the data into the proper shape and type.
+* `utils_deep.py`: Includes functions which is used to create triplets for the deep model.
 * `model.py`: Builds the model which is designed and trained in this study.
 * `main.py`: Includes the main implementation of the project.
 
