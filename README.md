@@ -14,4 +14,5 @@ There are following files in this repository:
 
 In order to run the model you need to take the following steps:
 #### 1. Run the `data_augmentation.py`, to generate augmented trajectories that you need for training the model.
-#### 2. Run the `main.py` to train the model.
+#### 2. Run the `main.py` to train the model via below command:
+`python main.py <batch_size> <semi-hardbatchsize> <embeddingsize> <#iteration> 'dataset'
