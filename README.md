@@ -1,4 +1,4 @@
-# HSA-clust-Hybrid-Siamese-Artchitecture
+# HSA-Hybrid-Siamese-Artchitecture
 This repository includes the source code of the following paper.
 
 The hybrid siamese architecture employes the triplet loss function to retrieve the embeddings of the raw GPS trajectories. Such embeddings can be used for user trajectory identification and verficiation and clustering the trajectories into the groups of people who have same movemenet behaviour. 
