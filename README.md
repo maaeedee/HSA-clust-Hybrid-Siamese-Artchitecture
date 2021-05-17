@@ -16,3 +16,9 @@ In order to run the model you need to take the following steps:
 #### 1. Run the `data_augmentation.py`, to generate augmented trajectories that you need for training the model.
 #### 2. Run the `main.py` to train the model via below command:
 `python main.py <batch_size> <semi-hardbatchsize> <embeddingsize> <#iteration> 'dataset'`
+
+### How to download GPS public datasets?
+## T-drive: 
+`
+curl https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/06.zip -o /data/tdrive/raw_data/td06.csv.zip
+`
