@@ -21,4 +21,5 @@ In order to run the model you need to take the following steps:
 ## T-drive: 
 `
 curl https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/06.zip -o /data/tdrive/raw_data/td06.csv.zip
+curl https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/07.zip -o /data/tdrive/raw_data/td07.csv.zip
 `
