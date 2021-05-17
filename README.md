@@ -18,7 +18,7 @@ In order to run the model you need to take the following steps:
 `python main.py <batch_size> <semi-hardbatchsize> <embeddingsize> <#iteration> 'dataset'`
 
 ### How to download GPS public datasets?
-## T-drive: 
+#### T-drive: 
 `
 curl https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/06.zip -o /data/tdrive/raw_data/td06.csv.zip
 
