@@ -16,7 +16,7 @@ There are following files in this repository:
 In order to run the model you need to take the following steps:
 #### 0. Run the `download_datsets.py` for your desired dataset (Geolife or T-drive) using the below command line:
 `python download_datasets.py <dataset>`
-`<dataset>`: Choose `'geolife'` or `'tdrive'`, based on your needs.
+** `<dataset>`: Choose `'geolife'` or `'tdrive'`, based on your needs.
 #### 1. Run the `data_augmentation.py`, to generate augmented trajectories that you need for training the model.
 #### 2. Run the `main.py` to train the model via below command:
 `python main.py <batch_size> <semi-hardbatchsize> <embeddingsize> <#iteration> 'dataset'`
