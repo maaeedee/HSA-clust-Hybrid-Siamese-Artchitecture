@@ -21,6 +21,3 @@ In order to run the model you need to take the following steps:
 #### 2. Run the `main.py` to train the model via below command:
 `python main.py <batch_size> <semi-hardbatchsize> <embeddingsize> <#iteration> 'dataset'`
 
-### How to download GPS public datasets?
-#### T-drive: 
-Run the `tdrive_download.py` file to download T-drive dataset to the provided folder.
